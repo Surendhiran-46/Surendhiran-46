@@ -11,6 +11,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=Surendhiran-46&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)
 <span> ![](https://nirzak-streak-stats.vercel.app/?user=Surendhiran-46&theme=github_dark&hide_border=false) </span><br/>
 
+<img src="https://raw.githubusercontent.com/Surendhiran-46/Surendhiran-46/main/quote.svg" alt="My Quote" style="max-width: 100%;" />
+
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Surendhiran-46&icon=4&color=0)](https://visitcount.itsvg.in)

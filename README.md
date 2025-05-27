@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Surendhiran
 - 👀 I’m interested in Coding and Software Development 
-- 🌱 I’m currently learning BE CSE at SKCET
+- 🌱 I’m currently pursuing BE CSE at SKCET
 - 💞️ I’m looking to collaborate on Exciting tech projects and innovations
 - 📫 How to reach me : surendhiran.official@gmail.com
 - 😄 Pronouns: He/Him

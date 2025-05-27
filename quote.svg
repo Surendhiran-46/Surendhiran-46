@@ -1,6 +1,6 @@
-<svg width="600" height="100" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet" style="max-width: 100%; height: auto;">
   <rect width="100%" height="100%" fill="#1e1e1e"/>
-  <text x="50%" y="50%" font-size="18" fill="#ffffff" dominant-baseline="middle" text-anchor="middle">
+  <text x="50%" y="50%" font-size="24" fill="#ffffff" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif">
     "If people don't think you're crazy, you're not dreaming big enough."
   </text>
 </svg>

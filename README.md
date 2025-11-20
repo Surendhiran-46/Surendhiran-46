@@ -1,5 +1,14 @@
 # 💫 About Me:
-👋 Hi, I’m Surendhiran<br>🌱 I’m currently pursuing BE CSE at SKCET<br>💞️ I’m looking to collaborate on Exciting tech projects and innovations<br>📫 How to reach me : surendhiran.official@gmail.com<br>⚡ Fun fact: My best ideas are powered by caffeine and late-night coding sessions
+### 👋 Hi, I’m **Surendhiran**
+
+![Profile Views](https://komarev.com/ghpvc/?username=Surendhiran-46&color=blue)
+
+🌱 BE CSE @ SKCET  
+💞️ Open to collaborate on **exciting tech innovations**  
+📫 Reach me: **surendhiran.official@gmail.com**
+
+> ⚡ Fun fact: My best ideas are powered by caffeine and late-night coding sessions ☕💻
+
 
 
 ## 🌐 Socials:

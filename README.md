@@ -20,6 +20,9 @@
 ![Surendhiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Surendhiran-46&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&v=2)
 <span> ![](https://nirzak-streak-stats.vercel.app/?user=Surendhiran-46&theme=github_dark&hide_border=false) </span><br/>
 
+# 📈 Leetcode Stats:
+![My LeetCode Stats](https://leetcard.jacoblin.cool/Surendhiran46?theme=dark&font=IBM%20Plex%20Sans%20KR&ext=heatmap)
+
 <img src="https://raw.githubusercontent.com/Surendhiran-46/Surendhiran-46/main/quote.svg" alt="My Quote" style="max-width: 100%;" />
 
 ---

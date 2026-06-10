@@ -19,13 +19,15 @@
 
 # 📊 GitHub Stats
 
-![Surendhiran's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Surendhiran-46&theme=flag-india&show_icons=true)
-
---- 
-![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=Surendhiran-46)]
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Surendhiran-46&show_icons=true&theme=github_dark)
 
 ---
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Surendhiran-46&layout=compact&langs_count=8)]
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Surendhiran-46&theme=github_dark)
+
+---
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Surendhiran-46&layout=compact&theme=github_dark)
 
 ---
 # 📈 Leetcode Stats:
